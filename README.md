@@ -1,5 +1,11 @@
 # Alphasense B4 multisensor board
 
-An electronic board for use with multiple Alphasense B4 sensor series
-
 ![logo](https://github.com/domenico-suriano/Alphasense-B4-multisensor-board/blob/main/images/logo.bmp)
+
+Project designer and developer
+
+Dr. Domenico Suriano , domenico.suriano@enea.it
+
+# Description
+
+The Alphasense B4 multisensor board is an electronic board designed to use the electrochemical gas sensor B4 series by Alphasense. It can be used with the NO2-B43F, OX-B431, CO-B4, H2S-B4, and SO2-B4 sensors. 
