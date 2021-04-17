@@ -1,0 +1,314 @@
+Post Processor Report
+OrCAD FILE: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.MAX
+Fri Aug 01 11:07:03 2014
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.TOP
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.TOP:
+---------------------------------------------------------
+D10:  0.0590 SQUARE --       0 Draws,     188 Flashes
+D11:  0.0630 ROUND  --       0 Draws,       9 Flashes
+D12:  0.0630 SQUARE --       0 Draws,       1 Flashes
+D13:  0.1260 ROUND  --       0 Draws,       5 Flashes
+D14:  0.0787 x 0.0472 RECTANGLE -----      12 Flashes
+D15:  0.0472 x 0.0787 RECTANGLE -----      12 Flashes
+D16:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D17:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D18:  0.1575 ROUND  --       0 Draws,      16 Flashes
+D19:  0.0900 x 0.0160 OBLONG    -----      28 Flashes
+D20:  0.0900 x 0.0160 RECTANGLE -----       4 Flashes
+D21:  0.0984 x 0.0240 OBLONG    -----      26 Flashes
+D22:  0.0984 x 0.0240 RECTANGLE -----       2 Flashes
+D23:  0.0240 x 0.0984 OBLONG    -----      26 Flashes
+D24:  0.0240 x 0.0984 RECTANGLE -----       2 Flashes
+D25:  0.0100 ROUND  --    8740 Draws,       0 Flashes
+D26:  0.0120 ROUND  --    1127 Draws,       0 Flashes
+D27:  0.0500 ROUND  --       0 Draws,     121 Flashes
+D28:  0.0500 ROUND  --       0 Draws,       2 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D30:  0.0140 ROUND  --       0 Draws,      55 Flashes
+---------------------------------------------------------
+ 21 D-Codes      -----    9867 Draws,     680 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.BOT
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.BOT:
+---------------------------------------------------------
+D25:  0.0100 ROUND  --    8512 Draws,       0 Flashes
+D26:  0.0120 ROUND  --     500 Draws,       0 Flashes
+D27:  0.0500 ROUND  --       0 Draws,     121 Flashes
+D28:  0.0500 ROUND  --       0 Draws,       2 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D30:  0.0140 ROUND  --       0 Draws,      55 Flashes
+D31:  0.0590 SQUARE --       0 Draws,      12 Flashes
+D32:  0.0630 ROUND  --       0 Draws,       9 Flashes
+D33:  0.0630 SQUARE --       0 Draws,       1 Flashes
+D34:  0.1260 ROUND  --       0 Draws,       5 Flashes
+D35:  0.0787 x 0.0472 RECTANGLE -----      14 Flashes
+D36:  0.0787 SQUARE --       0 Draws,       8 Flashes
+D37:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D38:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D39:  0.0472 x 0.0787 RECTANGLE -----       2 Flashes
+D40:  0.1575 ROUND  --       0 Draws,      16 Flashes
+---------------------------------------------------------
+ 16 D-Codes      -----    9012 Draws,     416 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SMT
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SMT:
+---------------------------------------------------------
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D32:  0.0630 ROUND  --       0 Draws,      16 Flashes
+D33:  0.0630 SQUARE --       0 Draws,       8 Flashes
+D41:  0.0669 SQUARE --       0 Draws,     188 Flashes
+D42:  0.1338 ROUND  --       0 Draws,       5 Flashes
+D43:  0.0866 x 0.0551 RECTANGLE -----      12 Flashes
+D44:  0.0551 x 0.0866 RECTANGLE -----      12 Flashes
+D45:  0.1653 ROUND  --       0 Draws,      16 Flashes
+D46:  0.0979 x 0.0239 OBLONG    -----      28 Flashes
+D47:  0.0979 x 0.0239 RECTANGLE -----       4 Flashes
+D48:  0.1063 x 0.0319 OBLONG    -----      26 Flashes
+D49:  0.1063 x 0.0319 RECTANGLE -----       2 Flashes
+D50:  0.0319 x 0.1063 OBLONG    -----      26 Flashes
+D51:  0.0319 x 0.1063 RECTANGLE -----       2 Flashes
+D52:  0.0550 ROUND  --       0 Draws,      85 Flashes
+D53:  0.0550 ROUND  --       0 Draws,      38 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+---------------------------------------------------------
+ 17 D-Codes      -----       0 Draws,     670 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SMB
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SMB:
+---------------------------------------------------------
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D32:  0.0630 ROUND  --       0 Draws,      16 Flashes
+D33:  0.0630 SQUARE --       0 Draws,       8 Flashes
+D41:  0.0669 SQUARE --       0 Draws,      12 Flashes
+D42:  0.1338 ROUND  --       0 Draws,       5 Flashes
+D43:  0.0866 x 0.0551 RECTANGLE -----      14 Flashes
+D44:  0.0551 x 0.0866 RECTANGLE -----       2 Flashes
+D45:  0.1653 ROUND  --       0 Draws,      16 Flashes
+D52:  0.0550 ROUND  --       0 Draws,      85 Flashes
+D53:  0.0550 ROUND  --       0 Draws,      38 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+D55:  0.0866 SQUARE --       0 Draws,       8 Flashes
+---------------------------------------------------------
+ 12 D-Codes      -----       0 Draws,     406 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SPT
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SPT:
+---------------------------------------------------------
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D31:  0.0590 SQUARE --       0 Draws,     188 Flashes
+D35:  0.0787 x 0.0472 RECTANGLE -----      12 Flashes
+D37:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D38:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D39:  0.0472 x 0.0787 RECTANGLE -----      12 Flashes
+D40:  0.1575 ROUND  --       0 Draws,      16 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+D56:  0.0900 x 0.0160 OBLONG    -----      28 Flashes
+D57:  0.0900 x 0.0160 RECTANGLE -----       4 Flashes
+D58:  0.0984 x 0.0240 OBLONG    -----      26 Flashes
+D59:  0.0984 x 0.0240 RECTANGLE -----       2 Flashes
+D60:  0.0240 x 0.0984 OBLONG    -----      26 Flashes
+D61:  0.0240 x 0.0984 RECTANGLE -----       2 Flashes
+---------------------------------------------------------
+ 14 D-Codes      -----       0 Draws,     542 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SPB
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SPB:
+---------------------------------------------------------
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D31:  0.0590 SQUARE --       0 Draws,      12 Flashes
+D35:  0.0787 x 0.0472 RECTANGLE -----      14 Flashes
+D36:  0.0787 SQUARE --       0 Draws,       8 Flashes
+D37:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D38:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D39:  0.0472 x 0.0787 RECTANGLE -----       2 Flashes
+D40:  0.1575 ROUND  --       0 Draws,      16 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----       0 Draws,     278 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SST
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SST:
+---------------------------------------------------------
+D25:  0.0100 ROUND  --     216 Draws,       0 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D62:  0.0060 ROUND  --    2190 Draws,       0 Flashes
+D63:  0.0080 ROUND  --      40 Draws,       0 Flashes
+D64:  0.0083 ROUND  --     226 Draws,       0 Flashes
+D65:  0.0140 ROUND  --       0 Draws,      55 Flashes
+---------------------------------------------------------
+  6 D-Codes      -----    2672 Draws,     202 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SSB
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.SSB:
+---------------------------------------------------------
+D25:  0.0100 ROUND  --     685 Draws,       0 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+D62:  0.0060 ROUND  --     168 Draws,       0 Flashes
+D63:  0.0080 ROUND  --      55 Draws,       0 Flashes
+D64:  0.0083 ROUND  --     160 Draws,       0 Flashes
+D66:  0.0098 ROUND  --      16 Draws,       0 Flashes
+D67:  0.0118 ROUND  --     150 Draws,       0 Flashes
+D68:  0.0087 ROUND  --     140 Draws,       0 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----    1374 Draws,     202 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.AST
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.AST:
+---------------------------------------------------------
+D25:  0.0100 ROUND  --       8 Draws,       0 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D31:  0.0590 SQUARE --       0 Draws,     188 Flashes
+D35:  0.0787 x 0.0472 RECTANGLE -----      12 Flashes
+D37:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D38:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D39:  0.0472 x 0.0787 RECTANGLE -----      12 Flashes
+D40:  0.1575 ROUND  --       0 Draws,      16 Flashes
+D56:  0.0900 x 0.0160 OBLONG    -----      28 Flashes
+D57:  0.0900 x 0.0160 RECTANGLE -----       4 Flashes
+D58:  0.0984 x 0.0240 OBLONG    -----      26 Flashes
+D59:  0.0984 x 0.0240 RECTANGLE -----       2 Flashes
+D60:  0.0240 x 0.0984 OBLONG    -----      26 Flashes
+D61:  0.0240 x 0.0984 RECTANGLE -----       2 Flashes
+D62:  0.0060 ROUND  --    2190 Draws,       0 Flashes
+D63:  0.0080 ROUND  --     133 Draws,       0 Flashes
+D64:  0.0083 ROUND  --     133 Draws,       0 Flashes
+D65:  0.0140 ROUND  --       0 Draws,      55 Flashes
+---------------------------------------------------------
+ 18 D-Codes      -----    2464 Draws,     542 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.ASB
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.ASB:
+---------------------------------------------------------
+D25:  0.0100 ROUND  --       8 Draws,       0 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D31:  0.0590 SQUARE --       0 Draws,      12 Flashes
+D35:  0.0787 x 0.0472 RECTANGLE -----      14 Flashes
+D36:  0.0787 SQUARE --       0 Draws,       8 Flashes
+D37:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D38:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D39:  0.0472 x 0.0787 RECTANGLE -----       2 Flashes
+D40:  0.1575 ROUND  --       0 Draws,      16 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+D62:  0.0060 ROUND  --     328 Draws,       0 Flashes
+D67:  0.0118 ROUND  --      64 Draws,       0 Flashes
+D68:  0.0087 ROUND  --     140 Draws,       0 Flashes
+D69:  0.0039 ROUND  --      48 Draws,       0 Flashes
+D70:  0.0079 ROUND  --      16 Draws,       0 Flashes
+---------------------------------------------------------
+ 15 D-Codes      -----     604 Draws,     278 Flashes
+
+*********************************************************
+
+Output file: C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.DRD
+
+Aperture totals for C:\PROGETTI\SCHEDA-ALPHASENSEB43\ALPHAB43-10.DRD:
+---------------------------------------------------------
+D25:  0.0100 ROUND  --    1612 Draws,       0 Flashes
+D29:  0.0140 ROUND  --       0 Draws,     147 Flashes
+D54:  0.0140 ROUND  --       0 Draws,      55 Flashes
+---------------------------------------------------------
+  3 D-Codes      -----    1612 Draws,     202 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0590 SQUARE --       0 Draws,     188 Flashes
+D11:  0.0630 ROUND  --       0 Draws,       9 Flashes
+D12:  0.0630 SQUARE --       0 Draws,       1 Flashes
+D13:  0.1260 ROUND  --       0 Draws,       5 Flashes
+D14:  0.0787 x 0.0472 RECTANGLE -----      12 Flashes
+D15:  0.0472 x 0.0787 RECTANGLE -----      12 Flashes
+D16:  0.0551 ROUND  --       0 Draws,      16 Flashes
+D17:  0.0551 SQUARE --       0 Draws,       8 Flashes
+D18:  0.1575 ROUND  --       0 Draws,      16 Flashes
+D19:  0.0900 x 0.0160 OBLONG    -----      28 Flashes
+D20:  0.0900 x 0.0160 RECTANGLE -----       4 Flashes
+D21:  0.0984 x 0.0240 OBLONG    -----      26 Flashes
+D22:  0.0984 x 0.0240 RECTANGLE -----       2 Flashes
+D23:  0.0240 x 0.0984 OBLONG    -----      26 Flashes
+D24:  0.0240 x 0.0984 RECTANGLE -----       2 Flashes
+D25:  0.0100 ROUND  --   19781 Draws,       0 Flashes
+D26:  0.0120 ROUND  --    1627 Draws,       0 Flashes
+D27:  0.0500 ROUND  --       0 Draws,     242 Flashes
+D28:  0.0500 ROUND  --       0 Draws,       4 Flashes
+D29:  0.0140 ROUND  --       0 Draws,    1617 Flashes
+D30:  0.0140 ROUND  --       0 Draws,     110 Flashes
+D31:  0.0590 SQUARE --       0 Draws,     412 Flashes
+D32:  0.0630 ROUND  --       0 Draws,      41 Flashes
+D33:  0.0630 SQUARE --       0 Draws,      17 Flashes
+D34:  0.1260 ROUND  --       0 Draws,       5 Flashes
+D35:  0.0787 x 0.0472 RECTANGLE -----      66 Flashes
+D36:  0.0787 SQUARE --       0 Draws,      24 Flashes
+D37:  0.0551 ROUND  --       0 Draws,      80 Flashes
+D38:  0.0551 SQUARE --       0 Draws,      40 Flashes
+D39:  0.0472 x 0.0787 RECTANGLE -----      30 Flashes
+D40:  0.1575 ROUND  --       0 Draws,      80 Flashes
+D41:  0.0669 SQUARE --       0 Draws,     200 Flashes
+D42:  0.1338 ROUND  --       0 Draws,      10 Flashes
+D43:  0.0866 x 0.0551 RECTANGLE -----      26 Flashes
+D44:  0.0551 x 0.0866 RECTANGLE -----      14 Flashes
+D45:  0.1653 ROUND  --       0 Draws,      32 Flashes
+D46:  0.0979 x 0.0239 OBLONG    -----      28 Flashes
+D47:  0.0979 x 0.0239 RECTANGLE -----       4 Flashes
+D48:  0.1063 x 0.0319 OBLONG    -----      26 Flashes
+D49:  0.1063 x 0.0319 RECTANGLE -----       2 Flashes
+D50:  0.0319 x 0.1063 OBLONG    -----      26 Flashes
+D51:  0.0319 x 0.1063 RECTANGLE -----       2 Flashes
+D52:  0.0550 ROUND  --       0 Draws,     170 Flashes
+D53:  0.0550 ROUND  --       0 Draws,      76 Flashes
+D54:  0.0140 ROUND  --       0 Draws,     385 Flashes
+D55:  0.0866 SQUARE --       0 Draws,       8 Flashes
+D56:  0.0900 x 0.0160 OBLONG    -----      56 Flashes
+D57:  0.0900 x 0.0160 RECTANGLE -----       8 Flashes
+D58:  0.0984 x 0.0240 OBLONG    -----      52 Flashes
+D59:  0.0984 x 0.0240 RECTANGLE -----       4 Flashes
+D60:  0.0240 x 0.0984 OBLONG    -----      52 Flashes
+D61:  0.0240 x 0.0984 RECTANGLE -----       4 Flashes
+D62:  0.0060 ROUND  --    4876 Draws,       0 Flashes
+D63:  0.0080 ROUND  --     228 Draws,       0 Flashes
+D64:  0.0083 ROUND  --     519 Draws,       0 Flashes
+D65:  0.0140 ROUND  --       0 Draws,     110 Flashes
+D66:  0.0098 ROUND  --      16 Draws,       0 Flashes
+D67:  0.0118 ROUND  --     214 Draws,       0 Flashes
+D68:  0.0087 ROUND  --     280 Draws,       0 Flashes
+D69:  0.0039 ROUND  --      48 Draws,       0 Flashes
+D70:  0.0079 ROUND  --      16 Draws,       0 Flashes
+---------------------------------------------------------
+ 61 D-Codes      -----   27605 Draws,    4418 Flashes
+
+
+No warnings or errors.
